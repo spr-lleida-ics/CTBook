@@ -23,8 +23,8 @@ dependencies:
   - cloudpickle
   - colorama
   - cryptography
-  - cycler=0.10.0
-  - cytoolz=0.11.0
+  - cycler
+  - cytoolz
   - dask-core
   - decorator
   - defusedxml
@@ -66,17 +66,11 @@ dependencies:
   - libsodium
   - libtiff
   - lz4-c
-  - m2w64-gcc-libgfortran
-  - m2w64-gcc-libs
-  - m2w64-gcc-libs-core
-  - m2w64-gmp
-  - m2w64-libwinpthread-git
   - markupsafe
   - matplotlib
   - matplotlib-base
-  - mistune=0.8.4
-  - mkl=2020.4
-  - msys2-conda-epoch
+  - mistune
+  - mkl
   - multidict
   - nbclient
   - nbconvert
@@ -121,8 +115,6 @@ dependencies:
   - python_abi
   - pytz
   - pywavelets
-  - pywin32
-  - pywinpty
   - pyyaml
   - pyzmq
   - qt
@@ -134,7 +126,7 @@ dependencies:
   - scipy
   - send2trash
   - setuptools
-  - six=1.15.0
+  - six
   - sqlite
   - tabulate
   - terminado
@@ -147,15 +139,10 @@ dependencies:
   - typing-extensions
   - typing_extensions
   - urllib3
-  - vc
-  - vs2015_runtime
   - wcwidth
   - webencodings
   - wheel
   - widgetsnbextension
-  - win_inet_pton
-  - wincertstore
-  - winpty
   - xz
   - yaml
   - yapf
